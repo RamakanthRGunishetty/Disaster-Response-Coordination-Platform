@@ -30,8 +30,8 @@ Build a backend-heavy MERN-stack app that:
 
 ## 🚀 Live Deployment
 
-- **Frontend (Vercel)**: https://your-vercel-url.vercel.app  
-- **Backend (Render)**: https://your-backend-url.onrender.com
+- **Frontend (Vercel)**: [https://disaster-response-coordination-plat-sable.vercel.app/](https://disaster-response-coordination-plat-sable.vercel.app/)
+- **Backend (Render)**: [https://disaster-response-coordination-platform-epx0.onrender.com](https://disaster-response-coordination-platform-epx0.onrender.com)
 
 ---
 
